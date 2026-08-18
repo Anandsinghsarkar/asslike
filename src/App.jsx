@@ -15,15 +15,15 @@ import {
 } from 'lucide-react';
 
 // --- FIREBASE INITIALIZATION ---
-const firebaseConfig = {
-  apiKey: "AIzaSyAGkL7KHdJTpJYZRpV5QzLs2mmnb2Fk2Sk",
-  authDomain: "store-database-7.firebaseapp.com",
-  databaseURL: "https://store-database-7-default-rtdb.asia-southeast1.firebasedatabase.app",
-  projectId: "store-database-7",
-  storageBucket: "store-database-7.firebasestorage.app",
-  messagingSenderId: "589656994548",
-  appId: "1:589656994548:web:dec75d223a6cb57f0c64a1",
-  measurementId: "G-0F9MRM61LS"
+ const firebaseConfig = {
+  apiKey: "AIzaSyAsGtblJRafRcfPDxSwXIlklMqBSKfo8Eo",
+  authDomain: "asprivetchat.firebaseapp.com",
+  databaseURL: "https://asprivetchat-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "asprivetchat",
+  storageBucket: "asprivetchat.firebasestorage.app",
+  messagingSenderId: "232125473382",
+  appId: "1:232125473382:web:ae3aa39cfd9febc92803a7",
+  measurementId: "G-8LXNRN5SX4"
 };
 
 const app = initializeApp(firebaseConfig);
